@@ -1,0 +1,17 @@
+.settings/
+.idea
+
+.project
+.DS_Store
+
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+unpackage/node_modules/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
